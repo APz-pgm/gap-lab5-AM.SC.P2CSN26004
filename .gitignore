@@ -1,0 +1,14 @@
+# Secrets - never commit these
+.env
+
+# Generated output - grows without bound, and is not evidence
+run_log.jsonl
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Stub bookkeeping
+.stub_calls.log

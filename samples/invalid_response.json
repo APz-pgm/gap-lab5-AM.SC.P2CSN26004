@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "question": "What process do plants use to convert light energy into chemical energy?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Fermentation",
+        "Transpiration"
+      ],
+      "answer": "Mitosis",
+      "explanation": "This answer is deliberately not one of the four options for the question."
+    },
+    {
+      "question": "Which pigment absorbs most of the light used in photosynthesis?",
+      "options": [
+        "Chlorophyll",
+        "Melanin",
+        "Hemoglobin",
+        "Keratin"
+      ],
+      "answer": "Chlorophyll",
+      "explanation": "Chlorophyll is the main pigment that captures light in plant chloroplasts."
+    },
+    {
+      "question": "What gas do plants take in during photosynthesis?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "Carbon dioxide",
+      "explanation": "Plants use carbon dioxide from the air as a raw material for making sugars."
+    },
+    {
+      "question": "Which molecule is released as a byproduct of photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Methane"
+      ],
+      "answer": "Oxygen",
+      "explanation": "Oxygen is released when water is split during the light-dependent reactions."
+    },
+    {
+      "question": "Where does the light-dependent stage of photosynthesis occur?",
+      "options": [
+        "Thylakoid membranes",
+        "Mitochondrial matrix",
+        "Cytoplasm",
+        "Cell wall"
+      ],
+      "answer": "Thylakoid membranes",
+      "explanation": "The thylakoid membranes contain the pigment systems and electron transport chains."
+    }
+  ]
+}
