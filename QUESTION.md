@@ -1,0 +1,1 @@
+Measured across five successful real papers, the average was 1.00 model calls per paper (5 calls / 5 papers). The gap from 1.0 is 0.00, so none of these runs needed an invalid-output repair or a transient-error retry. This suggests the prompt produced valid JSON on the first try for these topics. The sample is small, so I would not assume the same result for every topic.
